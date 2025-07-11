@@ -26,12 +26,10 @@ A Java-based console application designed to automate parking lot space manageme
 <img width="394" height="235" alt="Screenshot 2025-07-11 at 12 51 26 PM" src="https://github.com/user-attachments/assets/65be290a-a3eb-4b46-859f-76dc25cedc02" />
 <img width="393" height="79" alt="Screenshot 2025-07-11 at 12 51 36 PM" src="https://github.com/user-attachments/assets/625e5183-7032-40c6-a182-be096a306517" />
 
-![Sample Screenshot](screenshots/output1.png)
 
 ## 📁 Report
-
-- 📄 [Final Project Report (PDF)](report/java-final-report.pdf)
-
+- [java final cbp.pdf](https://github.com/user-attachments/files/21177677/java.final.cbp.pdf)
+  
 ## 🧑‍💻 Authors
 
 - [Naga Udaya Sri (GitHub)](https://github.com/Udaya19SRI)  
